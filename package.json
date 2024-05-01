@@ -13,20 +13,20 @@
   "dependencies": {
     "json-server": "^0.17.4",
     "leaflet": "^1.9.4",
-    "react": "^18.2.0",
-    "react-datepicker": "^6.6.0",
-    "react-dom": "^18.2.0",
+    "react": "^18.3.1",
+    "react-datepicker": "^6.9.0",
+    "react-dom": "^18.3.1",
     "react-leaflet": "^4.2.1",
-    "react-router-dom": "^6.22.3"
+    "react-router-dom": "^6.23.0"
   },
   "devDependencies": {
-    "@types/react": "18.2.73",
-    "@types/react-dom": "18.2.23",
+    "@types/react": "18.3.1",
+    "@types/react-dom": "18.3.0",
     "@vitejs/plugin-react-swc": "3.6.0",
     "eslint": "8.57.0",
     "eslint-plugin-react": "7.34.1",
-    "eslint-plugin-react-hooks": "4.6.0",
+    "eslint-plugin-react-hooks": "4.6.2",
     "eslint-plugin-react-refresh": "0.4.6",
-    "vite": "5.2.7"
+    "vite": "5.2.10"
   }
 }
